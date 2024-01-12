@@ -1,5 +1,5 @@
 # | PROJECT 13
-## [Data-Engineering-Pipeline](https://github.com/gurezende/Data-Engineering-Pipeline)
+## [Data-Engineering-Pipeline](https://medium.com/@gustavorsantos/creating-a-data-pipeline-from-scratch-47c8031c7c36?sk=651c9fd1b569ec1c562b0ed243380051)
 
 ### Creating a Data Pipeline for Stock Data
 
